@@ -74,6 +74,7 @@ dependencies:
   - jupyterlab_pygments=0.1.2=py_0
   - jupyterlab_server=2.16.5=py39hecd8cb5_0
   - jxrlib=1.1=haf1e3a3_2
+  - kaggle=1.5.12=pyhd8ed1ab_4
   - kiwisolver=1.4.4=py39hcec6c5f_0
   - krb5=1.19.2=hcd88c3b_0
   - lame=3.100=h1de35cc_0
@@ -169,6 +170,7 @@ dependencies:
   - python=3.9.15=h218abb5_2
   - python-dateutil=2.8.2=pyhd3eb1b0_0
   - python-fastjsonschema=2.16.2=py39hecd8cb5_0
+  - python-slugify=7.0.0=pyhd8ed1ab_0
   - pytorch=2.0.0.dev20221231=py3.9_0
   - pytz=2022.7=py39hecd8cb5_0
   - pywavelets=1.4.1=py39h6c40b1e_0
@@ -190,6 +192,7 @@ dependencies:
   - stack_data=0.2.0=pyhd3eb1b0_0
   - sympy=1.11.1=py39hecd8cb5_0
   - terminado=0.17.1=py39hecd8cb5_0
+  - text-unidecode=1.3=py_0
   - threadpoolctl=2.2.0=pyh0d69192_0
   - tifffile=2021.7.2=pyhd3eb1b0_2
   - tinycss2=1.2.1=py39hecd8cb5_0
@@ -204,6 +207,7 @@ dependencies:
   - typing-extensions=4.4.0=py39hecd8cb5_0
   - typing_extensions=4.4.0=py39hecd8cb5_0
   - tzdata=2022g=h04d1e81_0
+  - unidecode=1.3.6=pyhd8ed1ab_0
   - urllib3=1.26.13=py39hecd8cb5_0
   - wcwidth=0.2.5=pyhd3eb1b0_0
   - webencodings=0.5.1=py39hecd8cb5_1
