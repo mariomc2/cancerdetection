@@ -133,3 +133,6 @@ dmypy.json
 
 # exclude data from source control by default
 /data/
+
+# exclude sandbox notebooks
+notebooks/sandbox/*
